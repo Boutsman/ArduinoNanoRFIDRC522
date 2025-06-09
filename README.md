@@ -7,6 +7,8 @@ Arduino Nano RFID Reader Project with 3D Printed Brackets
 
 This project is designed for makers, hobbyists, and students who have experience working with 3D printing and soldering. It focuses on creating functional prototypes quickly, using 3D printed brackets to connect embedded systems without the need for traditional PCB design. Please note that the design is not customizable.
 
+![ProjectPic](2024-09-01_f983555e06633.webp)
+
 Key Features:
 
 Arduino Nano V3.0: A small, versatile microcontroller that fits into compact projects, perfect for building quick prototypes.
